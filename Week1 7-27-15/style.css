@@ -1,0 +1,22 @@
+h1 {
+	color:red;
+}
+
+p {
+	color: #0a6;
+	font-style:italic;
+}
+
+
+/*
+= rule
+
+h1 = selector
+{} = set of declarations
+color: red; = declaration
+color = property
+red = value
+: = seperates property and value
+; = ends the declaration
+
+*/
